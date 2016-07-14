@@ -1,0 +1,22 @@
+{
+  "name": "libfec",
+  "version": "2.1.1",
+  "description": "emscripten-compiled libfec",
+  "main": "libfec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streamkitchen/libfec-js.git"
+  },
+  "keywords": [
+    "libfec"
+  ],
+  "author": "Phil Karn, KA9Q",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/streamkitchen/libfec-js/issues"
+  },
+  "homepage": "https://github.com/streamkitchen/libfec-js#readme"
+}
